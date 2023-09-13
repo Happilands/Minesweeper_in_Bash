@@ -1,5 +1,5 @@
 # Minesweeper_in_Bash
 
-# Run in terminal
+Minesweeper written in Bash to be played in a Linux terminal
 
-bash main.sh
+Run "bash main.sh" in terminal to play!
